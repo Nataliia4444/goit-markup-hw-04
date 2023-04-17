@@ -173,11 +173,7 @@ color: var(--ocean);
 .main-container{
 text-align: center;
 }
-.hero-section {
-background-color: var(--navy-blue-modal);
-padding-top: 188px;
-padding-bottom: 188px;
-}
+
 
 .hero-overlay{
 height: 600px;
@@ -194,7 +190,9 @@ url(../images/people-office.jpg);
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
-background-color: var(--grey);
+background-color: var(--navy-blue-modal);
+padding-top: 188px;
+padding-bottom: 188px;
 }
 
 .hero-caption {
