@@ -438,14 +438,14 @@ display: flex;
 justify-content: center;
 align-items: center;
 width: 168px;
-height:88px;
-color: #31d0aa;
-background-color: #2e2f42;
+height: 88px;
+color: var(--light-slate);
+background-color:var(--white);
 }
 	
 	
-.clients-item:hover,
-.clients-item:focus{
+.clients-link:hover,
+.clients-link:focus{
 border-color: 1px solid var(--ocean);
 color:var(--ocean);
 }
