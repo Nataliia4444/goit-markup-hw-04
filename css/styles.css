@@ -423,7 +423,7 @@ margin-bottom: 72px;
 
 .clients-list{
 display: flex;
-gap: 24px;
+gap: 16px;
 }
 	
 	
@@ -514,7 +514,6 @@ margin-bottom: 16px;
 .footer-link{
 width: 40px;
 height: 40px;
-gap: 16px;
 }
 
 .footer-link{
@@ -527,7 +526,12 @@ gap: 16px;
   background-color: #31d0aa;
 }
 
-
+.footer-list{
+display:flex;
+gap: 16px;
+justify-content: center;
+margin-top: 8px;
+}
 
 
 /* Portfolio */
