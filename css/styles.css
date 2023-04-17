@@ -396,7 +396,7 @@ border-radius: 50%;
 
 .social-link:hover,
 .social-link:focus{
-background-color: var(--green);
+background-color: var(--ocean);
 }
 
 
@@ -520,7 +520,10 @@ height: 40px;
 }
 
 
-
+.footer-link:hover,
+.footer-link:focus{
+  background-color: #31d0aa;
+}
 
 
 
