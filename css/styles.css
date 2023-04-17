@@ -432,28 +432,27 @@ gap: 24px;
 	
 	
 .clients-link{
-border-color: 1px solid var(--light-slate);
+border-color: 1px solid var(--slate);
 border-radius: 4px;
 display: flex;
 justify-content: center;
 align-items: center;
 width: 168px;
 height: 88px;
-color: var(--ocean);
 background-color:var(--white);
+color: var(--grey);
 }
 	
 	
 .clients-link:hover,
 .clients-link:focus{
 border-color: 1px solid var(--ocean);
-color:var(--ocean);
+background-color:var(--ocean);
 }
 	
 .clients-icon{
 fill: currentColor;
 }
-
 
 
 
