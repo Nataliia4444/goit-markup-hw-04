@@ -431,22 +431,21 @@ gap: 24px;
 	
 	
 .clients-link{
-border-color: 1px solid var(--slate);
+border: 1px solid var(--slate);
 border-radius: 4px;
 display: flex;
 justify-content: center;
 align-items: center;
 width: 168px;
 height: 88px;
-background-color:var(--white);
-color: var(--grey);
+color: var(--light-slate);
 }
 	
 	
 .clients-link:hover,
 .clients-link:focus{
 border-color: 1px solid var(--ocean);
-background-color:var(--ocean);
+color: var(--ocean);
 }
 	
 .clients-icon{
