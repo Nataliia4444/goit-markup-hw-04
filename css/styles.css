@@ -422,6 +422,7 @@ font-size: 36px;
 line-height: 1.1;
 letter-spacing: 0.02em;
 margin-bottom: 72px;
+cursor: pointer;
 }
 
 .clients-list{
