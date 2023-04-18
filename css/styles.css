@@ -462,14 +462,8 @@ align-items: baseline;
 }
 
 .footer-wrap{
-min-width: 377px;
+margin-right: 120px;
 }
-
-/* .footer-contacts{
-max-width: 864px;
-margin-left: 120px;
-margin-right: 692px;
-}  */
 
 
 
